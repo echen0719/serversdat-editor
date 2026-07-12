@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.echen0719.serversdateditor.mixin",
+	"package": "echen0719.serversdateditor.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
 		"ExampleMixin"

@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.echen0719.serversdateditor.client.mixin",
+	"package": "echen0719.serversdat_editor.mixin.client",
 	"compatibilityLevel": "JAVA_25",
 	"client": [
-		"ExampleClientMixin"
+		"multiplayerScreenMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

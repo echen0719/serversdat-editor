@@ -1,4 +1,4 @@
-package com.echen0719.serversdateditor.mixin;
+package echen0719.serversdateditor.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

@@ -1,4 +1,4 @@
-package com.echen0719.serversdateditor;
+package echen0719.serversdateditor;
 
 import net.fabricmc.api.ModInitializer;
 

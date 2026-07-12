@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.echen0719.serversdateditor.ServersDatEditor"
+			"echen0719.serversdateditor.ServersDatEditor"
 		],
 		"client": [
-			"com.echen0719.serversdateditor.client.ServersDatEditorClient"
+			"echen0719.serversdat_editor.ServersDatEditor"
 		]
 	},
 	"mixins": [
